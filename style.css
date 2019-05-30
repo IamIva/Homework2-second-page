@@ -1,0 +1,17 @@
+img{
+	width: 100px;
+}
+ul{
+	list-style: none;
+}
+a{
+	color: #3D58A6;
+	font-size: 22px;
+	text-decoration: none;
+}
+span{
+	color: #EE4036;
+}
+span img{
+	width: 500px;
+}
